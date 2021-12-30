@@ -1,24 +1,17 @@
-# rfa
+# Ripardo Financial App
 
-## Project setup
-```
-npm install
-```
+## Visão geral
+A ideia principal deste projeto é tê-lo como portfolio e de quebra ajudar pessoas que
+precisam administrar as suas vidas financeiras. O app será desenvolvido com a tecnologia PWA e integrado diretamente ao
+Firebase.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Inspirações
+[Organizze](https://www.organizze.com.br) ©.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Tecnologias
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+<img src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white" />
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Atualizações futuras
+- README em inglês;
