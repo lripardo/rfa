@@ -1,4 +1,4 @@
-<div style="text-align: center">
+<div align="center">
 <h1>Ripardo Financial App</h1>
 <img src="https://img.shields.io/badge/-em desenvolvimento-red.svg">
 <img src="https://img.shields.io/badge/status-5%25-blue.svg">
